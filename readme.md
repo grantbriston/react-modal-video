@@ -1,5 +1,5 @@
-# react-modal-video
-React Modal Video Component
+# react-modal-video-new
+React Modal Video Component forked from appleple/react-modal-video to support react 18
 
 ## Features
 
